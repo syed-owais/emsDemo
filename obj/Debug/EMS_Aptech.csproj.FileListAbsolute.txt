@@ -1,0 +1,18 @@
+E:\All Projects\C#\EMS_Aptech\EMS_Aptech\bin\Debug\EMS_Aptech.exe.config
+E:\All Projects\C#\EMS_Aptech\EMS_Aptech\bin\Debug\EMS_Aptech.exe
+E:\All Projects\C#\EMS_Aptech\EMS_Aptech\bin\Debug\EMS_Aptech.pdb
+E:\All Projects\C#\EMS_Aptech\EMS_Aptech\bin\Debug\BunifuDataViz 1.0.1.dll
+E:\All Projects\C#\EMS_Aptech\EMS_Aptech\bin\Debug\Bunifu_UI_v1.5.3.dll
+E:\All Projects\C#\EMS_Aptech\EMS_Aptech\obj\Debug\EMS_Aptech.MainWindow.resources
+E:\All Projects\C#\EMS_Aptech\EMS_Aptech\obj\Debug\EMS_Aptech.Properties.Resources.resources
+E:\All Projects\C#\EMS_Aptech\EMS_Aptech\obj\Debug\EMS_Aptech.csproj.GenerateResource.cache
+E:\All Projects\C#\EMS_Aptech\EMS_Aptech\obj\Debug\EMS_Aptech.exe
+E:\All Projects\C#\EMS_Aptech\EMS_Aptech\obj\Debug\EMS_Aptech.pdb
+E:\All Projects\C#\EMS_Aptech\EMS_Aptech\obj\Debug\EMS_Aptech.UC_Dashboard.resources
+E:\All Projects\C#\EMS_Aptech\EMS_Aptech\obj\Debug\EMS_Aptech.Login_Form.resources
+E:\All Projects\C#\EMS_Aptech\EMS_Aptech\obj\Debug\EMS_Aptech.EMP_Reg.resources
+E:\All Projects\C#\EMS_Aptech\EMS_Aptech\obj\Debug\EMS_Aptech.DepartmentForm.resources
+E:\All Projects\C#\EMS_Aptech\EMS_Aptech\obj\Debug\EMS_Aptech.csprojResolveAssemblyReference.cache
+E:\All Projects\C#\EMS_Aptech\EMS_Aptech\obj\Debug\EMS_Aptech.CheckIn_CheckOut_Form.resources
+E:\All Projects\C#\EMS_Aptech\EMS_Aptech\obj\Debug\EMS_Aptech.UC_PayRoll.resources
+E:\All Projects\C#\EMS_Aptech\EMS_Aptech\obj\Debug\EMS_Aptech.UC_Reports.resources
